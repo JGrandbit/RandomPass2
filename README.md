@@ -12,4 +12,4 @@ There are prompts for password criteria
 
 Password will then be generated and displayed on page
 
-Live link:
+Live link: https://jgrandbit.github.io/RandomPass2/
