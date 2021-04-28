@@ -8,7 +8,7 @@ There are prompts for password criteria
 
 -Will ask if you'd like numbers or special characters
 
--Will ask how long you'd liek your passwordmto be. If you answer is under 8 characters it will advise a minimun password length is 
+-Will ask how long you'd like your password to be. If you answer is under 8 characters it will advise a minimun password length is 
 
 Password will then be generated and displayed on page
 
